@@ -13,4 +13,4 @@ jobs:
       - uses: compas-dev/compas-actions.ghpython_components@v1
         with:
           source: components\Test_MinimalSDK
-          target: build\Test_MinimalSDK
+          target: build
